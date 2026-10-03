@@ -1,6 +1,6 @@
-# ML Assignment 2 — Pandas
+# ML Assignment 2 Pandas
 
-Notebook: `assignment2_pandas.ipynb` (run top to bottom with Runtime -> Restart and run all).
+Notebook: `assignment2_pandas.ipynb`.
 
 ## Dataset
 Rio de Janeiro Crime Records (monthly statistics per police district, Instituto de Seguranca Publica)
